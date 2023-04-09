@@ -1,0 +1,26 @@
+.cartMain{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+    width: 75%;
+    height: 100vh;
+    margin: 0px auto;
+}
+
+.cartMain{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.titleCart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #A5D7E8;
+
+    width: 100%;
+    margin-bottom: 25px;
+}

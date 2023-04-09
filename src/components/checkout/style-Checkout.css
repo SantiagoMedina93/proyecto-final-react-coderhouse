@@ -1,0 +1,53 @@
+.checkoutMain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.checkoutMain h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: #A5D7E8;
+    margin-bottom: 25px;
+}
+
+.checkoutForm{
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    
+    width: 40%;
+    height: 100vh;
+    margin: 0px auto;
+    padding: 10px;
+}
+
+.inputCheckout{
+    /* border: 1px solid green; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
+    width: 70%;
+    margin-bottom: 15px;
+}
+
+.inputCheckout input{
+    width: 100%;
+}
+.lastClass{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+
+    padding-top: 30px;
+    height: 100vh;
+}

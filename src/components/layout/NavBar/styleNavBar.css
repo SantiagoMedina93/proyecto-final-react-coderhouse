@@ -1,0 +1,29 @@
+.navBarBG{
+    background-color: #A5D7E8;
+    color: azure;
+}
+
+.btn-search-color{
+    background-color: #0B2447;
+    color: azure;
+}
+
+.btn-search-color:hover{
+    background-color: #0B2447;
+}
+
+.navBar{
+    width: 80%;
+    margin: 0px auto;
+    padding: 15px;
+}
+
+.navBarInput{
+    width: 100%;
+}
+
+.searchNav{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}

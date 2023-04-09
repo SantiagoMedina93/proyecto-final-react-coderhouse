@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+
+.mainBGColor{
+    background-color: #fffff1;
+}
+
+.btn-main{
+    padding: 10px;
+    background-color: #0B2447;
+    border-radius: 10px;
+    border: none;
+    color: azure;
+}
+

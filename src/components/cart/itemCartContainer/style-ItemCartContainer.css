@@ -1,0 +1,29 @@
+.ItemCartContainerMain{
+    list-style: none;
+    padding: 0px;
+    width: 100%;
+}
+
+.ItemCartContainerFooter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+    border-radius: 8px;
+    width: 100% ;
+    
+    margin-bottom: 15px;
+    padding: 5px;
+}
+
+.btnFooter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 12px;
+}
+
+.btnFooter button{
+    margin-left: 20px;
+}
